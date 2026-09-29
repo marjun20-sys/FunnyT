@@ -11,9 +11,13 @@ Note: I am not responsible for any actions taken or any websites you choose to t
 FOR TERMUX USERS
 
 git clone https://github.com/marjun20-sys/FunnyT
+
 cd FunnyT
+
 ls
-unzip junmar.Ip
+
+unzip junmar.zip
+
 cd junmar
 
 ATTACK NOW FOR EXAMPLE 
@@ -29,9 +33,13 @@ FOR GOGGLE CLOUD SHELL TRY THIS
 git alone https://github.com/marjun20-sys/FunnyT
 
 cd FunnyT
+
 ls
+
 unzip junmar.zip
+
 ls
+
 cd junmar 
 
 ATTACK NOW FOR EXAMPLE 
