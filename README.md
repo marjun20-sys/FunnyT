@@ -10,19 +10,27 @@ Note: I am not responsible for any actions taken or any websites you choose to t
 
 FOR TERMUX USERS
 
+
 git clone https://github.com/marjun20-sys/FunnyT
+
 
 cd FunnyT
 
+
 ls
+
 
 unzip junmar.zip
 
+
 cd junmar
+
 
 ATTACK NOW FOR EXAMPLE 
 
+
 node junmar.js https://test.web.cn 120 64 5 proxy.txt
+
 
 
 
@@ -44,24 +52,33 @@ node junmar.js https://test.web.cn 120 64 5 proxy.txt
 FOR GOGGLE CLOUD SHELL TRY THIS 
 
 
+
 git alone https://github.com/marjun20-sys/FunnyT
+
 
 cd FunnyT
 
+
 ls
+
 
 unzip junmar.zip
 
+
 ls
+
 
 cd junmar 
 
+
 ATTACK NOW FOR EXAMPLE 
+
 
 node junmar.js https://test.web.cn 120 64 5 proxy.txt
 
 
-NAOTE THIS IS FOR TEST WEB ONLY, IM NOT RESPONSIBLE FOR ANY ACTIONS TAKEN OR ANY WEB YOU CHOOSE TO TEST THIS TOOL 
+
+NOTE THIS IS FOR TEST WEB ONLY, IM NOT RESPONSIBLE FOR ANY ACTIONS TAKEN OR ANY WEB YOU CHOOSE TO TEST THIS TOOL 
 
 
 THANK YOU.
